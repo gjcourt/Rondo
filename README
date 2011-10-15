@@ -1,0 +1,6 @@
+This project is going to be a command line interface for searching and playing music
+
+Setup
+1. Configure the rondo.conf file to point to your music directories
+2. Run the setup script to find and index your music
+3. Execute rondo from the command line to access the play/playlist_creation modes

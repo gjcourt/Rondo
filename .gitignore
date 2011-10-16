@@ -1,0 +1,4 @@
+*.pyc
+Rondo.egg-info
+build
+dist
